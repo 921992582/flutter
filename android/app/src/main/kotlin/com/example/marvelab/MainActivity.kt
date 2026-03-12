@@ -1,4 +1,4 @@
-package com.example.flutter_test_project
+package com.quvanai.marvelab
 
 import io.flutter.embedding.android.FlutterActivity
 
